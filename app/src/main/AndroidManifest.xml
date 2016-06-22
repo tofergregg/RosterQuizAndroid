@@ -21,7 +21,7 @@
         <activity
             android:name=".LoadRosterFromWebsite"
             android:windowSoftInputMode="adjustPan"></activity>
-        <activity android:name=".loadStudentsFromWebsite"></activity>
+        <activity android:name=".LoadStudentsFromWebsite"></activity>
     </application>
 
 </manifest>
