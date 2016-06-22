@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/chrisgregg/Google_Drive/Programming/Android/RosterQuiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="58aaf9c2bf752cd5efe95cc3d88b977e3ef29ad7">
+        <dex dex="/Users/chrisgregg/Google_Drive/Programming/Android/RosterQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aa4d7f6fcf878e059e8186d8505d1604e8057848/classes.dex" />
+    </item>
+
+</items>
